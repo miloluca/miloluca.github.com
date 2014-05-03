@@ -1,0 +1,13 @@
+
+*, :before, :after {
+  box-sizing: border-box;
+  margin: 0; padding: 0;
+  -webkit-font-smoothing: antialiased;
+}
+
+
+body {
+  background: #f6f5f2;
+  font: 100%/1.5em lato, sans-serif;
+}
+
